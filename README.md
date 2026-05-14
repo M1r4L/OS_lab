@@ -1,6 +1,6 @@
 # Операционные системы
 # 1 лабораторная
-### Реализации фибоначи на с++
+### Реализации факториала на с++
 <img width="463" height="262" alt="1" src="https://github.com/user-attachments/assets/d513e205-c7c3-4b23-91f4-9b095d1dafc9" /> <br>
 <img width="396" height="138" alt="2" src="https://github.com/user-attachments/assets/b1667b4c-2660-4bc0-bf95-b5d0aeade5c5" /><br>
 <img width="368" height="287" alt="3" src="https://github.com/user-attachments/assets/ce2fe7e6-e444-4646-b06d-49b5041564b2" /><br>
