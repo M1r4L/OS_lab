@@ -176,4 +176,5 @@ _Z9factoriali:
 ### Запускаем Makefile (второй запуск без -pthread выдает ошибку)
 <img width="412" height="208" alt="10" src="https://github.com/user-attachments/assets/c05321e1-e4ef-4c6b-9e6e-16d302c5cc46" />
 
-
+# 2 лабораторная 
+[Создание виртуальной машины и устаноука Linux](Установка.mp4)
